@@ -1,1 +1,2 @@
 # Quality_Management_of_Software_Systems-File-Manager
+Тестирование файлового менеджера
